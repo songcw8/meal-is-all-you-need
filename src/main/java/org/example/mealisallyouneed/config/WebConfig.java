@@ -1,4 +1,4 @@
-package org.example.why_pstmt.config;
+package org.example.mealisallyouneed.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,5 @@
-package org.example.why_pstmt.config;
+package org.example.mealisallyouneed.config;
 
-import jakarta.servlet.FilterRegistration;
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletRegistration;
